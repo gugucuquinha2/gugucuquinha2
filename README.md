@@ -1,4 +1,4 @@
-👋 Hi, I’m Gustavo Carneiro!
+👋 Hi, my name is Gustavo Carneiro!
 
 🎮 I’m a Game UI/UX Designer, currently working at Saber Interactive.
 
