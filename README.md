@@ -1,6 +1,6 @@
 👋 Hi, my name is Gustavo Carneiro!
 
-🎮 I’m a Game UI/UX Designer, currently working at Saber Interactive.
+🎮 I’m a Senior Game UI/UX Designer, currently working at Abstraction Games.
 
 📫 You can reach out to me on:
   - Twitter at @gugucuquinha
